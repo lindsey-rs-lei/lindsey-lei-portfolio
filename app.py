@@ -24,27 +24,29 @@ TEXT = {
         "home_chip": "Marketing · Analytics · AI Product",
         "home_subtitle": "Master of Management Analytics | University of Toronto",
         "home_intro": "I enjoy turning broad questions into structured analysis and translating complex work into decisions that feel clear, thoughtful, and useful.",
-        "scroll": "Scroll to explore ↓",
+        "scroll": "Explore more",
         "about_label": "About",
         "about_title_home": "About my work",
         "about_body_home": "My background combines marketing, analytics, and AI-related product work. I’m especially interested in roles where data can shape decisions, products, and user experience.",
-        "focus_label": "Current focus",
+        "focus_label": "What I'm building toward",
         "focus_title": "What I’m building toward",
         "focus_items": [
-            "Data and product roles",
-            "Applied analytics and AI",
-            "Clear storytelling from complex work",
+            "Deepen my foundation in analytics, experimentation, and statistical thinking.",
+            "Grow at the intersection of data, AI, and business strategy.",
+            "Build toward roles where I can turn analysis into product and strategic impact.",
         ],
-        "about_page_label": "About",
-        "about_page_title": "A little about my work",
-        "about_page_body_1": "My background combines marketing, analytics, and AI-related product work. Across projects and internships, I’ve worked on user research, campaign strategy, machine learning, dashboarding, and cross-functional collaboration.",
-        "about_page_body_2": "I am especially interested in roles where data is not just analyzed, but used to shape decisions, products, and better user experiences.",
-        "highlights_label": "Highlights",
+        "about_page_label": "About me",
+        "about_page_title": "About me",
+        "about_page_body_1": "As a debater and debate coach, I developed a strong foundation in structured thinking and clear reasoning. This way of approaching problems continues to shape how I communicate, analyze, and make decisions.",
+        "about_page_body_2": "During my experience in marketing roles, I often worked closely with engineers and product teams. A recurring question I faced was: how do we know this actually works? I realized that while I could propose ideas, I could not always support them with rigorous evidence.",
+        "about_page_body_3": "That gap led me to pursue data analytics and statistics more deeply. I wanted to move from intuition-driven decisions to evidence-based thinking, not just understanding what works, but why it works.",
+        "about_page_body_4": "Today, my work sits at the intersection of analytics, business strategy, and AI. I am especially interested in using data to translate complex problems into clear insights, and turning those insights into decisions that are both practical and impactful.",
+        "highlights_label": "What I bring",
         "highlights_title": "What I bring",
         "highlights_items": [
-            "Strong mix of analytics, product, and communication",
-            "Experience moving from user behavior to business recommendations",
-            "Interest in applied AI, decision support, and product strategy",
+            "Turn business questions into structured, measurable analysis that supports better decisions.",
+            "Translate data into clear insights and recommendations, not just technical outputs.",
+            "Bridge business, product, and technical teams to keep work aligned and actionable.",
         ],
         "experience_label": "Experience",
         "experience_title": "Selected experience",
@@ -58,6 +60,7 @@ TEXT = {
         "latest": "Latest",
         "selected_work": "Selected work",
         "why_it_matters": "Why it matters",
+        "project_links_label": "Links",
         "fun_facts_label": "Fun Facts",
         "fun_facts_title": "Beyond work",
         "skills_label": "Skills",
@@ -91,27 +94,29 @@ TEXT = {
         "home_chip": "市场 · 分析 · AI 产品",
         "home_subtitle": "多伦多大学管理分析硕士",
         "home_intro": "我喜欢把宽泛的问题整理成清晰的分析框架，并把复杂的工作转化成更明确、更有思考感、也更有用的决策。",
-        "scroll": "向下滑动查看 ↓",
+        "scroll": "向下滑动查看",
         "about_label": "关于",
         "about_title_home": "我的工作方向",
         "about_body_home": "我的背景结合了市场、数据分析和 AI 相关产品工作。我尤其感兴趣的是那些能让数据真正影响决策、产品和用户体验的角色。",
-        "focus_label": "目前关注",
+        "focus_label": "我正在发展的方向",
         "focus_title": "我正在发展的方向",
         "focus_items": [
-            "数据与产品相关岗位",
-            "应用分析与 AI",
-            "把复杂工作讲清楚的能力",
+            "继续深化我在 analytics、实验设计和统计思维上的基础。",
+            "在 data、AI 和 business strategy 的交叉点上持续成长。",
+            "走向能把分析转化为产品和战略影响的岗位。",
         ],
         "about_page_label": "关于我",
-        "about_page_title": "关于我的工作",
-        "about_page_body_1": "我的背景结合了市场、数据分析和 AI 相关产品工作。在项目和实习中，我接触过用户研究、营销策略、机器学习、数据看板以及跨职能协作。",
-        "about_page_body_2": "我尤其感兴趣的是那些让数据不只是被分析，而是真正影响决策、产品和用户体验的角色。",
-        "highlights_label": "亮点",
+        "about_page_title": "About me",
+        "about_page_body_1": "作为辩手和辩论教练，我建立了比较扎实的结构化思考和清晰推理能力。这种处理问题的方式一直影响着我如何沟通、分析和做判断。",
+        "about_page_body_2": "在做 marketing 相关工作时，我经常和工程师以及产品团队紧密合作。我反复会遇到一个问题：我们怎么知道这件事真的有效？我意识到，虽然我能提出想法，但我并不总能用足够严谨的证据去支持它。",
+        "about_page_body_3": "这个 gap 让我更深入地去学习 data analytics 和 statistics。我想从依赖直觉的判断，走向更基于证据的思考方式，不只是知道什么有效，也知道为什么有效。",
+        "about_page_body_4": "现在，我的工作兴趣主要在 analytics、business strategy 和 AI 的交叉点上。我尤其希望用数据把复杂问题翻译成清晰洞察，再把这些洞察转化成真正有实践价值的决策。",
+        "highlights_label": "我能带来的东西",
         "highlights_title": "我能带来的东西",
         "highlights_items": [
-            "兼具分析、产品和沟通能力",
-            "有把用户行为转化为业务建议的经验",
-            "关注应用型 AI、决策支持和产品策略",
+            "把商业问题转化成结构化、可衡量的分析，支持更好的决策。",
+            "把数据翻译成清晰的洞察和建议，而不只是技术输出。",
+            "连接 business、product 和 technical 团队，让工作保持对齐并可执行。",
         ],
         "experience_label": "经历",
         "experience_title": "精选经历",
@@ -125,6 +130,7 @@ TEXT = {
         "latest": "最新",
         "selected_work": "主要工作",
         "why_it_matters": "项目意义",
+        "project_links_label": "相关链接",
         "fun_facts_label": "更多面向",
         "fun_facts_title": "工作之外",
         "skills_label": "技能",
@@ -177,6 +183,10 @@ projects = [
         ],
         "impact_en": "Reflects a product mindset grounded in both user behavior and practical execution.",
         "impact_zh": "体现了我将用户行为理解与实际产品落地结合起来的产品思维。",
+        "links": [
+            {"label": "Galaxy Pitch", "url": "https://canva.link/galaxypitch"},
+            {"label": "Galaxy Prototype", "url": "https://www.figma.com/make/Pry7MhJoX7BgF1V3KAq7ip/ADHD-Planet-App-Overview?fullscreen=1"},
+        ],
     },
     {
         "title_en": "Sound Based Emotion Detector",
@@ -201,6 +211,9 @@ projects = [
         ],
         "impact_en": "Shows technical modeling ability alongside an awareness of evaluation quality and robustness.",
         "impact_zh": "既体现了建模能力，也体现了我对评估质量与模型稳健性的关注。",
+        "links": [
+            {"label": "Speech Deck", "url": "https://canva.link/czrb6kp64tpaeva"},
+        ],
     },
     {
         "title_en": "L.O.V.E. Multi-Agent Relationship Support System",
@@ -227,6 +240,11 @@ projects = [
         ],
         "impact_en": "Demonstrates the ability to work on AI products that combine system design, user needs, and evaluation thinking.",
         "impact_zh": "体现了我在 AI 产品中同时兼顾系统设计、用户需求与评估思维的能力。",
+        "links": [
+            {"label": "L.O.V.E. Pitch", "url": "https://canva.link/loveaiagent"},
+            {"label": "Demo Video", "url": "https://www.youtube.com/watch?v=jEcYYLnz-lo"},
+            {"label": "App Link", "url": "https://rsm8430-group18-mt3nu7g4geqgvsmfq97ikn.streamlit.app/"},
+        ],
     },
     {
         "title_en": "Toronto Police Services Crime Risk Prediction",
@@ -251,6 +269,9 @@ projects = [
         ],
         "impact_en": "Highlights applied machine learning in a real decision-support context with public-sector relevance.",
         "impact_zh": "体现了机器学习在真实公共部门决策支持场景中的应用价值。",
+        "links": [
+            {"label": "TPS Risk Model", "url": "https://canva.link/tpsriskmodel"},
+        ],
     },
     {
         "title_en": "Summer Home Recommender System",
@@ -275,58 +296,6 @@ projects = [
         ],
         "impact_en": "Shows product-oriented problem solving using recommendation logic and user-centered design.",
         "impact_zh": "体现了我以用户为中心、用推荐逻辑解决实际问题的产品思路。",
-    },
-    {
-        "title_en": "Elevator Risk Prediction Model (TSSA)",
-        "title_zh": "TSSA 电梯风险预测模型",
-        "year": 2026,
-        "type_key": "analytics",
-        "featured": True,
-        "tags": ["Python", "Feature Engineering", "Tableau", "Operations"],
-        "subtitle_en": "Python · Feature engineering · Dashboarding · Operational decision support",
-        "subtitle_zh": "Python · 特征工程 · 可视化看板 · 运营决策支持",
-        "summary_en": "Built a risk-focused analytics workflow for elevator safety management using large-scale operational data to support inspector resource allocation and risk-based prioritization.",
-        "summary_zh": "基于大规模运营数据构建电梯安全管理中的风险分析流程，用于支持检查资源配置和风险优先级排序。",
-        "details_en": [
-            "Cleaned and integrated 4 maintenance and inspection datasets",
-            "Engineered features from 200M+ records covering 65,000+ elevators",
-            "Structured a modeling roadmap to identify key risk drivers",
-            "Built an interactive Tableau dashboard for cross-functional stakeholders",
-        ],
-        "details_zh": [
-            "清洗并整合 4 个维护与检查数据集",
-            "基于 2 亿+记录、6.5万+电梯完成特征工程",
-            "设计建模路径以识别关键风险驱动因素",
-            "搭建 Tableau 交互式看板支持跨团队沟通",
-        ],
-        "impact_en": "Demonstrates the ability to work with large real-world datasets and translate technical outputs into decision-support tools.",
-        "impact_zh": "体现了我处理大规模真实数据并将技术结果转化为决策支持工具的能力。",
-    },
-    {
-        "title_en": "Understanding Global Meat Consumption Patterns",
-        "title_zh": "全球肉类消费格局分析",
-        "year": 2025,
-        "type_key": "analytics",
-        "featured": True,
-        "tags": ["PCA", "Clustering", "R", "Global Data"],
-        "subtitle_en": "PCA · K-means clustering · Cross-country analysis",
-        "subtitle_zh": "PCA · K-means 聚类 · 跨国分析",
-        "summary_en": "Analyzed international food consumption data to explore how dietary structures vary across countries, with a focus on identifying patterns behind high meat consumption.",
-        "summary_zh": "分析国际食品消费数据，研究不同国家饮食结构差异，并重点识别高肉类消费背后的模式。",
-        "details_en": [
-            "Cleaned and structured cross-country food consumption data",
-            "Applied PCA to reduce dimensionality and summarize major variation",
-            "Used K-means clustering to segment countries by dietary profile",
-            "Interpreted clusters to identify broad structural and geographic trends",
-        ],
-        "details_zh": [
-            "清洗并整理跨国食品消费数据",
-            "使用 PCA 降维并总结主要差异",
-            "使用 K-means 按饮食结构对国家进行分组",
-            "结合聚类结果分析整体结构与地域趋势",
-        ],
-        "impact_en": "Shows the ability to turn a broad global dataset into an interpretable story using unsupervised learning.",
-        "impact_zh": "体现了我用无监督学习把复杂全球数据整理成可解释故事的能力。",
     },
     {
         "title_en": "ESG and Financial Performance Analysis",
@@ -368,12 +337,19 @@ experiences = [
         "bullets_en": [
             "Built dashboard-based decision support for operational prioritization",
             "Engineered large-scale features from real inspection and maintenance data",
+            "Worked on elevator risk modeling to support inspector allocation and risk-based prioritization",
+            "Built an interactive Tableau dashboard for cross-functional stakeholders",
             "Connected business questions with structured analytical workflows",
         ],
         "bullets_zh": [
             "搭建面向运营优先级决策的可视化支持工具",
             "基于真实检查与维护数据完成大规模特征工程",
+            "参与电梯风险建模，支持检查资源配置和风险优先级排序",
+            "搭建 Tableau 交互式看板支持跨团队沟通",
             "把业务问题转化为结构化分析流程",
+        ],
+        "links": [
+            {"label": "TSSA Pitch", "url": "https://canva.link/tssapitch"},
         ],
     },
     {
@@ -417,28 +393,29 @@ experiences = [
 ]
 
 fun_facts_en = [
-    "I previously hosted a children’s radio show for two years and organized offline audience events, which was one of my earliest experiences engaging with a real audience.",
-    "I have been training in boxing for four years. It has been a consistent part of my routine outside of academics and work.",
-    "I produced a weekly lifestyle podcast in Chinese that ranked #1 on an emerging creators chart on a major platform.",
-    "I have written online fiction and blogs in Chinese, and was able to monetize the content on a small scale.",
-    "I have also worked on original music and performed with a band.",
-    "I am actively involved in supporting LGBTQ+ communities, and currently manage the Instagram and LinkedIn accounts for Rotman Pride.",
-    "I have a strong background in Chinese debate, including competing in and coaching university-level teams in Canada.",
-    "I served as president of a student alliance across 20+ universities, organizing large-scale events such as business competitions and music festivals.",
-    "I have explored sustainability from a philosophical perspective, including work on the practical implications of vegetarianism.",
-    "In high school, I created and sold study notes, generating over 3,000 RMB in revenue.",
+    "📻 I previously hosted a children’s radio show for two years and organized offline audience events, which was one of my earliest experiences engaging with a real audience.",
+    "🥊 I have been training in boxing for four years. It has been a consistent part of my routine outside of academics and work.",
+    "🎙️ I produced a weekly lifestyle podcast in Chinese that ranked #1 on an emerging creators chart on a major platform.",
+    "✍️ I have written online fiction and blogs in Chinese, and was able to monetize the content on a small scale.",
+    "🎸 I have also worked on original music and performed with a band.",
+    "🏳️‍🌈 I am actively involved in supporting LGBTQ+ communities, and currently manage the Instagram and LinkedIn accounts for Rotman Pride.",
+    "🗣️ I have a strong background in Chinese debate, including competing in and coaching university-level teams in Canada.",
+    "🎪 I served as president of a student alliance across 20+ universities, organizing large-scale events such as business competitions and music festivals.",
+    "🌱 I have explored sustainability from a philosophical perspective, including work on the practical implications of vegetarianism.",
+    "💸 In high school, I created and sold study notes, generating over 3,000 RMB in revenue.",
 ]
 
 fun_facts_zh = [
-    "我曾连续两年主持儿童广播节目，也组织过线下听众见面活动，这是我最早与真实受众建立连接的经历之一。",
-    "我练拳击已经四年了，它一直是我在学习和工作之外非常稳定的一部分。",
-    "我做过一个中文生活类周播客，曾登上大型平台新锐榜第一名。",
-    "我写过中文网络小说和博客，也做过小规模变现。",
-    "我也做过原创音乐，并和乐队一起演出过。",
-    "我有比较深的中文辩论背景，既参加比赛，也做过大学辩论队教练。",
-    "我曾担任一个覆盖 20 多所学校的学生联盟主席，组织过商业竞赛和音乐节等活动。",
-    "我曾从哲学角度研究可持续性议题，包括素食主义在现实中的实践问题。",
-    "高中时我做过卖学习笔记的小生意，累计收入超过 3000 元人民币。",
+    "📻 我曾连续两年主持儿童广播节目，也组织过线下听众见面活动，这是我最早与真实受众建立连接的经历之一。",
+    "🥊 我练拳击已经四年了，它一直是我在学习和工作之外非常稳定的一部分。",
+    "🎙️ 我做过一个中文生活类周播客，曾登上大型平台新锐榜第一名。",
+    "✍️ 我写过中文网络小说和博客，也做过小规模变现。",
+    "🎸 我也做过原创音乐，并和乐队一起演出过。",
+    "🏳️‍🌈 我一直积极支持 LGBTQ+ 社群，目前也在运营 Rotman Pride 的 Instagram 和 LinkedIn 账号。",
+    "🗣️ 我有比较深的中文辩论背景，既参加比赛，也做过大学辩论队教练。",
+    "🎪 我曾担任一个覆盖 20 多所学校的学生联盟主席，组织过商业竞赛和音乐节等活动。",
+    "🌱 我曾从哲学角度研究可持续性议题，包括素食主义在现实中的实践问题。",
+    "💸 高中时我做过卖学习笔记的小生意，累计收入超过 3000 元人民币。",
 ]
 
 skills_en = {
@@ -475,6 +452,11 @@ def get_base64_image(path_str: str):
 def render_tags(tags):
     return " ".join([f"<span class='tag'>{tag}</span>" for tag in tags])
 
+def render_link_pills(links):
+    return " ".join(
+        [f"<a class='project-link' href='{link['url']}' target='_blank'>{link['label']}</a>" for link in links]
+    )
+
 def render_project_card(project, lang, T):
     title = project["title_en"] if lang == "English" else project["title_zh"]
     subtitle = project["subtitle_en"] if lang == "English" else project["subtitle_zh"]
@@ -487,39 +469,60 @@ def render_project_card(project, lang, T):
         "ai_product": T["project_type_ai_product"],
         "product": T["project_type_product"],
     }
+    details_html = "".join([f"<li>{item}</li>" for item in details])
+    links_html = ""
+    if project.get("links"):
+        links_html = f"""
+        <div class='project-meta-label'>{T['project_links_label']}</div>
+        <div class='project-link-row'>{render_link_pills(project['links'])}</div>
+        """
 
-    st.markdown("<div class='project-card'>", unsafe_allow_html=True)
     st.markdown(
-        f"<div class='section-label'>{type_map[project['type_key']]} · {project['year']}</div>",
-        unsafe_allow_html=True
+        f"""
+        <div class='project-card'>
+            <div class='section-label'>{type_map[project['type_key']]} · {project['year']}</div>
+            <h3>{title}</h3>
+            <div class='card-subtitle'>{subtitle}</div>
+            <p>{summary}</p>
+            <div>{render_tags(project["tags"])}</div>
+            <div class='project-meta-label'>{T['selected_work']}</div>
+            <ul class='card-list'>{details_html}</ul>
+            <div class='project-meta-label'>{T['why_it_matters']}</div>
+            <p>{impact}</p>
+            {links_html}
+        </div>
+        """,
+        unsafe_allow_html=True,
     )
-    st.markdown(f"### {title}")
-    st.caption(subtitle)
-    st.write(summary)
-    st.markdown(render_tags(project["tags"]), unsafe_allow_html=True)
-    st.markdown(f"**{T['selected_work']}**")
-    for item in details:
-        st.markdown(f"- {item}")
-    st.markdown(f"**{T['why_it_matters']}**")
-    st.write(impact)
-    st.markdown("</div>", unsafe_allow_html=True)
 
-def render_experience_card(exp, lang):
+def render_experience_card(exp, lang, T):
     title = exp["title_en"] if lang == "English" else exp["title_zh"]
     role = exp["role_en"] if lang == "English" else exp["role_zh"]
     tags = exp["tags_en"] if lang == "English" else exp["tags_zh"]
     bullets = exp["bullets_en"] if lang == "English" else exp["bullets_zh"]
-
-    st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-    st.markdown(f"<div class='section-label'>{exp['period']}</div>", unsafe_allow_html=True)
-    st.markdown(f"### {title}")
-    st.write(f"**{role}**")
-    st.markdown(render_tags(tags), unsafe_allow_html=True)
-    for bullet in bullets:
-        st.markdown(f"- {bullet}")
-    st.markdown("</div>", unsafe_allow_html=True)
+    bullets_html = "".join([f"<li>{bullet}</li>" for bullet in bullets])
+    links_html = ""
+    if exp.get("links"):
+        links_html = f"""
+        <div class='project-meta-label'>{T['project_links_label']}</div>
+        <div class='project-link-row'>{render_link_pills(exp['links'])}</div>
+        """
+    st.markdown(
+        f"""
+        <div class='soft-card'>
+            <div class='section-label'>{exp['period']}</div>
+            <h3>{title}</h3>
+            <div class='card-role'>{role}</div>
+            <div>{render_tags(tags)}</div>
+            <ul class='card-list'>{bullets_html}</ul>
+            {links_html}
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 hero_image_base64 = get_base64_image("hero.jpg")
+profile_image_base64 = get_base64_image("profile.jpg")
 
 # -----------------------------
 # Styling
@@ -528,6 +531,7 @@ hero_css = ""
 if hero_image_base64:
     hero_css = f"""
     .home-hero {{
+        width: 100%;
         min-height: 88vh;
         border-radius: 32px;
         overflow: hidden;
@@ -545,12 +549,18 @@ if hero_image_base64:
     }}
     .home-overlay {{
         width: 100%;
-        padding: 2.5rem 2rem 2.3rem 2rem;
+        min-height: 88vh;
+        padding: 2.8rem 2.1rem 3.2rem 2.1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        position: relative;
     }}
     """
 else:
     hero_css = """
     .home-hero {
+        width: 100%;
         min-height: 88vh;
         border-radius: 32px;
         overflow: hidden;
@@ -563,7 +573,12 @@ else:
     }
     .home-overlay {
         width: 100%;
-        padding: 2.5rem 2rem 2.3rem 2rem;
+        min-height: 88vh;
+        padding: 2.8rem 2.1rem 3.2rem 2.1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        position: relative;
     }
     """
 
@@ -593,13 +608,14 @@ html, body, [class*="css"] {{
 
 .block-container {{
     max-width: 1120px;
-    padding-top: 1.1rem;
+    padding-top: 6.2rem;
     padding-bottom: 3rem;
 }}
 
 header[data-testid="stHeader"] {{
     background: rgba(247, 246, 241, 0.72);
     backdrop-filter: blur(6px);
+    z-index: 10;
 }}
 
 [data-testid="stToolbar"] {{
@@ -609,6 +625,7 @@ header[data-testid="stHeader"] {{
 section[data-testid="stSidebar"] {{
     background: #f7f6f1;
     border-right: 1px solid rgba(120, 140, 120, 0.10);
+    display: none;
 }}
 
 section[data-testid="stSidebar"] * {{
@@ -646,6 +663,9 @@ p, li, div, span, label {{
     border: 1px solid var(--line);
     box-shadow: 0 8px 24px rgba(65, 80, 68, 0.04);
     margin-bottom: 1rem;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
 }}
 
 .project-card {{
@@ -655,6 +675,9 @@ p, li, div, span, label {{
     border: 1px solid var(--line);
     box-shadow: 0 8px 24px rgba(65, 80, 68, 0.04);
     margin-bottom: 1rem;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
 }}
 
 .section-label {{
@@ -680,6 +703,76 @@ p, li, div, span, label {{
     color: var(--muted) !important;
     font-size: 0.9rem;
     margin-top: 0.25rem;
+}}
+
+.topbar-shell {{
+    position: fixed;
+    top: 0.9rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1005;
+    width: min(1120px, calc(100vw - 2rem));
+    pointer-events: none;
+}}
+
+.topbar {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.95rem 1.15rem;
+    border-radius: 22px;
+    background: rgba(248, 247, 242, 0.96);
+    border: 1px solid rgba(79, 97, 82, 0.18);
+    backdrop-filter: blur(14px);
+    box-shadow: 0 12px 34px rgba(65, 80, 68, 0.12);
+    pointer-events: auto;
+}}
+
+.topbar,
+.topbar * {{
+    opacity: 1 !important;
+    visibility: visible !important;
+}}
+
+.brand-mark {{
+    font-size: 0.98rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #26342b !important;
+    white-space: nowrap;
+}}
+
+.topnav {{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    min-width: 0;
+}}
+
+.topnav a {{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.48rem 0.82rem;
+    border-radius: 999px;
+    color: #314137 !important;
+    text-decoration: none;
+    font-size: 0.94rem;
+    font-weight: 600;
+    line-height: 1;
+    background: rgba(255,255,255,0.62);
+    border: 1px solid rgba(89, 111, 92, 0.10);
+    transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}}
+
+.topnav a:hover {{
+    background: rgba(255,255,255,0.96);
+    border-color: rgba(89, 111, 92, 0.22);
+    color: #223128 !important;
 }}
 
 .hero-chip {{
@@ -717,28 +810,247 @@ p, li, div, span, label {{
     max-width: 760px;
 }}
 
+.hero-copy {{
+    max-width: 760px;
+}}
+
 .scroll-note {{
-    margin-top: 1.7rem;
-    font-size: 0.95rem;
+    position: absolute;
+    left: 50%;
+    bottom: 1.25rem;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.32rem;
+    font-size: 0.92rem;
     color: var(--muted) !important;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
+}}
+
+.scroll-arrow {{
+    display: inline-block;
+    font-size: 1.15rem;
+    line-height: 1;
+    animation: floatDown 1.7s ease-in-out infinite;
+}}
+
+@keyframes floatDown {{
+    0%, 100% {{
+        transform: translateY(0);
+        opacity: 0.7;
+    }}
+    50% {{
+        transform: translateY(7px);
+        opacity: 1;
+    }}
 }}
 
 .home-section-gap {{
     height: 3.6rem;
 }}
 
+.anchor-section {{
+    scroll-margin-top: 7.5rem;
+}}
+
+.home-stage {{
+    min-height: calc(100vh - 6.8rem);
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}}
+
 .about-card {{
     min-height: 260px;
+}}
+
+.about-story {{
+    padding: 0.6rem 0 1rem 0;
+    margin-bottom: 1.5rem;
+}}
+
+.about-grid {{
+    display: grid;
+    grid-template-columns: 240px minmax(0, 1fr);
+    gap: 2rem;
+    align-items: start;
+}}
+
+.about-photo-wrap {{
+    display: flex;
+    justify-content: center;
+}}
+
+.about-photo {{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 8px solid rgba(255,255,255,0.82);
+    box-shadow: 0 16px 36px rgba(65, 80, 68, 0.12);
+    background: linear-gradient(180deg, rgba(227,239,228,0.96) 0%, rgba(214,231,216,0.96) 100%);
+    flex: 0 0 auto;
+}}
+
+.about-photo img {{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}}
+
+.about-photo-fallback {{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #314137 !important;
+    letter-spacing: 0.04em;
+}}
+
+.about-copy {{
+    min-width: 0;
+}}
+
+.about-story p {{
+    font-size: 1.08rem;
+    line-height: 1.9;
+    margin-bottom: 1rem;
+}}
+
+.green-card {{
+    padding: 1.5rem 1.4rem 1.35rem 1.4rem;
+    border-radius: 26px;
+    background: linear-gradient(180deg, rgba(227,239,228,0.96) 0%, rgba(214,231,216,0.96) 100%);
+    border: 1px solid rgba(104, 133, 107, 0.16);
+    box-shadow: 0 12px 26px rgba(92, 118, 95, 0.08);
+    min-height: 100%;
+    height: 100%;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}}
+
+.green-card h3,
+.green-card .section-label,
+.green-card li,
+.green-card p {{
+    color: #314137 !important;
+}}
+
+.green-card ul {{
+    margin: 0.4rem 0 0 1.1rem;
+    padding: 0;
+}}
+
+.green-card li {{
+    margin-bottom: 0.8rem;
+    line-height: 1.7;
+}}
+
+.card-subtitle {{
+    color: var(--muted) !important;
+    font-size: 0.95rem;
+    margin: -0.15rem 0 0.7rem 0;
+}}
+
+.card-role {{
+    font-weight: 600;
+    margin-bottom: 0.7rem;
+    color: #304037 !important;
+}}
+
+.card-list {{
+    margin: 0.65rem 0 0 1.1rem;
+    padding: 0;
+}}
+
+.card-list li {{
+    margin-bottom: 0.72rem;
+    line-height: 1.7;
+}}
+
+.project-meta-label {{
+    font-weight: 700;
+    margin-top: 0.9rem;
+    margin-bottom: 0.35rem;
+    color: #314137 !important;
+}}
+
+.project-link-row {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin-top: 0.4rem;
+}}
+
+.project-link {{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.48rem 0.82rem;
+    border-radius: 999px;
+    background: rgba(230, 239, 230, 0.95);
+    border: 1px solid rgba(104, 133, 107, 0.18);
+    color: #2f4235 !important;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+}}
+
+.project-link:hover {{
+    background: rgba(220, 234, 221, 1);
+    border-color: rgba(104, 133, 107, 0.28);
 }}
 
 {hero_css}
 
 div[data-baseweb="select"] > div,
 .stSelectbox div[data-baseweb="select"] > div {{
-    background: rgba(255,255,255,0.84);
+    background: rgba(255,255,255,0.96) !important;
+    border: 1px solid rgba(120, 140, 120, 0.16) !important;
     border-radius: 14px;
     color: var(--text) !important;
+    box-shadow: 0 8px 22px rgba(65, 80, 68, 0.06);
+}}
+
+div[data-baseweb="select"] input,
+.stSelectbox input,
+div[data-baseweb="select"] span,
+.stSelectbox div[data-baseweb="select"] span {{
+    color: var(--text) !important;
+    -webkit-text-fill-color: var(--text) !important;
+}}
+
+div[data-baseweb="popover"] ul,
+div[role="listbox"] {{
+    background: rgba(252, 251, 247, 0.98) !important;
+    border: 1px solid rgba(120, 140, 120, 0.16) !important;
+    border-radius: 16px !important;
+    box-shadow: 0 14px 28px rgba(65, 80, 68, 0.10) !important;
+}}
+
+div[data-baseweb="popover"] li,
+div[role="option"] {{
+    background: transparent !important;
+    color: var(--text) !important;
+}}
+
+div[data-baseweb="popover"] li:hover,
+div[role="option"]:hover {{
+    background: #edf3ed !important;
+    color: #2d3c33 !important;
+}}
+
+div[aria-selected="true"] {{
+    background: #e4eee4 !important;
+    color: #243229 !important;
 }}
 
 .stButton button, .stDownloadButton button {{
@@ -759,219 +1071,375 @@ hr {{
     margin-top: 1.2rem;
     margin-bottom: 1.2rem;
 }}
+
+.stRadio [role="radiogroup"] {{
+    gap: 0.35rem;
+}}
+
+.element-container:has(> div.stRadio) {{
+    position: fixed;
+    top: 1.2rem;
+    right: max(calc((100vw - 1120px) / 2 + 1rem), 1rem);
+    z-index: 1001;
+    margin: 0;
+}}
+
+.element-container:has(> div.stRadio) .stRadio {{
+    padding: 0.2rem 0.3rem;
+    background: rgba(247, 246, 241, 0.92);
+    border: 1px solid rgba(89, 111, 92, 0.12);
+    border-radius: 999px;
+    box-shadow: 0 10px 24px rgba(65, 80, 68, 0.06);
+}}
+
+.stRadio [role="radiogroup"] label {{
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    padding: 0.18rem 0.7rem;
+}}
+
+@media (max-width: 900px) {{
+    .block-container {{
+        padding-top: 7.4rem;
+    }}
+
+    .topbar {{
+        border-radius: 28px;
+        align-items: stretch;
+        flex-direction: column;
+        padding: 0.95rem;
+    }}
+
+    .brand-mark {{
+        font-size: 0.9rem;
+    }}
+
+    .topnav {{
+        justify-content: flex-start;
+        width: 100%;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        padding-bottom: 0.2rem;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }}
+
+    .topnav::-webkit-scrollbar {{
+        display: none;
+    }}
+
+    .topnav a {{
+        flex: 0 0 auto;
+    }}
+
+    .element-container:has(> div.stRadio) {{
+        top: 5.4rem;
+        right: 1rem;
+    }}
+
+    .home-title {{
+        font-size: 3.1rem;
+    }}
+
+    .home-subtitle {{
+        font-size: 1.08rem;
+    }}
+
+    .home-stage {{
+        min-height: calc(100vh - 8.6rem);
+    }}
+
+    .home-overlay {{
+        min-height: 80vh;
+        padding: 2rem 1.35rem 3.7rem 1.35rem;
+    }}
+
+    .scroll-note {{
+        bottom: 1rem;
+        font-size: 0.82rem;
+    }}
+
+    .about-grid {{
+        grid-template-columns: 1fr;
+        gap: 1.35rem;
+    }}
+
+    .about-photo-wrap {{
+        justify-content: flex-start;
+    }}
+
+    .about-photo {{
+        width: 180px;
+        height: 180px;
+    }}
+}}
 </style>
 """, unsafe_allow_html=True)
 
 # -----------------------------
-# Sidebar
+# Top controls
 # -----------------------------
-with st.sidebar:
-    language = st.radio(TEXT["English"]["language_label"], LANGS)
-    T = TEXT[language]
-    st.markdown("## Lindsey Lei")
-    st.markdown(f"<div class='small-note'>{T['portfolio']}</div>", unsafe_allow_html=True)
-    st.markdown("---")
-    st.markdown(f"### {T['explore']}")
-    page = st.radio("Navigate", T["nav"])
-    st.markdown("---")
-    st.markdown(f"**{T['location']}**  \nToronto, ON")
-    st.markdown(f"**{T['email']}**  \nlindsey.lei@rotman.utoronto.ca")
-    st.markdown(f"**{T['linkedin']}**  \n[linkedin.com/in/lindsey-ranshuo-lei](https://linkedin.com/in/lindsey-ranshuo-lei)")
+language = st.radio(
+    TEXT["English"]["language_label"],
+    LANGS,
+    horizontal=True,
+    label_visibility="collapsed",
+)
+
+T = TEXT[language]
+nav_ids = ["home", "about", "experience", "projects", "fun", "skills", "contact"]
+nav_links = "".join(
+    [f"<a href='#{section_id}'>{label}</a>" for label, section_id in zip(T["nav"], nav_ids)]
+)
+
+st.markdown(
+    f"""
+    <div class="topbar-shell">
+        <div class="topbar">
+            <div class="brand-mark">Lindsey Lei</div>
+            <div class="topnav">{nav_links}</div>
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
 
 # -----------------------------
-# Page routing map
+# Single-page layout
 # -----------------------------
-nav_map = dict(zip(T["nav"], ["home", "about", "experience", "projects", "fun", "skills", "contact"]))
-current_page = nav_map[page]
-
-# -----------------------------
-# Pages
-# -----------------------------
-if current_page == "home":
-    st.markdown(
-        f"""
+st.markdown("<div id='home' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(
+    f"""
+    <div class="home-stage">
         <div class="home-hero">
             <div class="home-overlay">
-                <div class="hero-chip">{T['home_chip']}</div>
-                <div class="home-title">{T['hero_name']}</div>
-                <div class="home-subtitle">{T['home_subtitle']}</div>
-                <div class="hero-note">
-                    {T['home_intro']}
+                <div class="hero-copy">
+                    <div class="hero-chip">{T['home_chip']}</div>
+                    <div class="home-title">{T['hero_name']}</div>
+                    <div class="home-subtitle">{T['home_subtitle']}</div>
+                    <div class="hero-note">
+                        {T['home_intro']}
+                    </div>
                 </div>
-                <div class="scroll-note">{T['scroll']}</div>
+                <div class="scroll-note">
+                    <span>{T['scroll']}</span>
+                    <span class="scroll-arrow">↓</span>
+                </div>
             </div>
         </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
+
+st.markdown("<div id='about' class='anchor-section'></div>", unsafe_allow_html=True)
+profile_markup = (
+    f"<img src='data:image/jpeg;base64,{profile_image_base64}' alt='Lindsey Lei portrait' />"
+    if profile_image_base64
+    else "<div class='about-photo-fallback'>LL</div>"
+)
+
+st.markdown(
+    f"""
+    <div class='about-story'>
+        <div class='about-grid'>
+            <div class='about-photo-wrap'>
+                <div class='about-photo'>
+                    {profile_markup}
+                </div>
+            </div>
+            <div class='about-copy'>
+                <div class='section-label'>{T['about_page_label']}</div>
+                <h2>{T['about_page_title']}</h2>
+                <p>{T['about_page_body_1']}</p>
+                <p>{T['about_page_body_2']}</p>
+                <p>{T['about_page_body_3']}</p>
+                <p>{T['about_page_body_4']}</p>
+            </div>
+        </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
+about_bottom_left, about_bottom_right = st.columns(2, gap="large")
+
+with about_bottom_left:
+    highlights_html = "".join([f"<li>{item}</li>" for item in T["highlights_items"]])
+    st.markdown(
+        f"""
+        <div class='green-card'>
+            <div class='section-label'>{T['highlights_label']}</div>
+            <h3>{T['highlights_title']}</h3>
+            <ul>{highlights_html}</ul>
+        </div>
         """,
-        unsafe_allow_html=True
+        unsafe_allow_html=True,
     )
 
-    st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
+with about_bottom_right:
+    focus_html = "".join([f"<li>{item}</li>" for item in T["focus_items"]])
+    st.markdown(
+        f"""
+        <div class='green-card'>
+            <div class='section-label'>{T['focus_label']}</div>
+            <h3>{T['focus_title']}</h3>
+            <ul>{focus_html}</ul>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    c1, c2 = st.columns([1.12, 1], gap="large")
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
 
-    with c1:
-        st.markdown("<div class='soft-card about-card'>", unsafe_allow_html=True)
-        st.markdown(f"<div class='section-label'>{T['about_label']}</div>", unsafe_allow_html=True)
-        st.markdown(f"## {T['about_title_home']}")
-        st.write(T["about_body_home"])
-        st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("<div id='experience' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(f"<div class='section-label'>{T['experience_label']}</div>", unsafe_allow_html=True)
+st.markdown(f"## {T['experience_title']}")
 
-    with c2:
-        st.markdown("<div class='soft-card about-card'>", unsafe_allow_html=True)
-        st.markdown(f"<div class='section-label'>{T['focus_label']}</div>", unsafe_allow_html=True)
-        st.markdown(f"## {T['focus_title']}")
-        for item in T["focus_items"]:
-            st.markdown(f"- {item}")
-        st.markdown("</div>", unsafe_allow_html=True)
+exp_options = T["experience_filter_options"]
+exp_filter = st.selectbox(T["experience_filter"], exp_options)
 
-elif current_page == "about":
-    left, right = st.columns([1.2, 1], gap="large")
+shown = 0
+for exp in experiences:
+    tags = exp["tags_en"] if language == "English" else exp["tags_zh"]
+    all_label = "All" if language == "English" else "全部"
+    if exp_filter == all_label or exp_filter in tags:
+        render_experience_card(exp, language, T)
+        shown += 1
 
-    with left:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"<div class='section-label'>{T['about_page_label']}</div>", unsafe_allow_html=True)
-        st.markdown(f"## {T['about_page_title']}")
-        st.write(T["about_page_body_1"])
-        st.write(T["about_page_body_2"])
-        st.markdown("</div>", unsafe_allow_html=True)
+if shown == 0:
+    st.info(T["no_experience"])
 
-    with right:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"<div class='section-label'>{T['highlights_label']}</div>", unsafe_allow_html=True)
-        st.markdown(f"## {T['highlights_title']}")
-        for item in T["highlights_items"]:
-            st.markdown(f"- {item}")
-        st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
 
-elif current_page == "experience":
-    st.markdown(f"<div class='section-label'>{T['experience_label']}</div>", unsafe_allow_html=True)
-    st.markdown(f"## {T['experience_title']}")
+st.markdown("<div id='projects' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(f"<div class='section-label'>{T['projects_label']}</div>", unsafe_allow_html=True)
+st.markdown(f"## {T['projects_title']}")
 
-    exp_options = T["experience_filter_options"]
-    exp_filter = st.selectbox(T["experience_filter"], exp_options)
+col1, col2, col3 = st.columns([1.1, 1, 1.1], gap="medium")
+type_options = [
+    T["project_type_all"],
+    T["project_type_analytics"],
+    T["project_type_ai_product"],
+    T["project_type_product"],
+]
 
-    shown = 0
-    for exp in experiences:
-        tags = exp["tags_en"] if language == "English" else exp["tags_zh"]
-        all_label = "All" if language == "English" else "全部"
-        if exp_filter == all_label or exp_filter in tags:
-            render_experience_card(exp, language)
-            shown += 1
+with col1:
+    type_filter = st.selectbox(T["category"], type_options)
+with col2:
+    tag_filter = st.selectbox(T["skill_tag"], [T["project_type_all"]] + sorted({tag for p in projects for tag in p["tags"]}))
+with col3:
+    sort_by = st.selectbox(T["sort_by"], [T["featured"], T["latest"]])
 
-    if shown == 0:
-        st.info(T["no_experience"])
+filtered = projects.copy()
 
-elif current_page == "projects":
-    st.markdown(f"<div class='section-label'>{T['projects_label']}</div>", unsafe_allow_html=True)
-    st.markdown(f"## {T['projects_title']}")
+if type_filter != T["project_type_all"]:
+    reverse_type_map = {
+        T["project_type_analytics"]: "analytics",
+        T["project_type_ai_product"]: "ai_product",
+        T["project_type_product"]: "product",
+    }
+    filtered = [p for p in filtered if p["type_key"] == reverse_type_map[type_filter]]
 
-    col1, col2, col3 = st.columns([1.1, 1, 1.1], gap="medium")
-    type_options = [
-        T["project_type_all"],
-        T["project_type_analytics"],
-        T["project_type_ai_product"],
-        T["project_type_product"],
-    ]
+if tag_filter != T["project_type_all"]:
+    filtered = [p for p in filtered if tag_filter in p["tags"]]
 
-    with col1:
-        type_filter = st.selectbox(T["category"], type_options)
-    with col2:
-        tag_filter = st.selectbox(T["skill_tag"], [T["project_type_all"]] + sorted({tag for p in projects for tag in p["tags"]}))
-    with col3:
-        sort_by = st.selectbox(T["sort_by"], [T["featured"], T["latest"]])
+if sort_by == T["latest"]:
+    filtered = sorted(filtered, key=lambda x: x["year"], reverse=True)
+else:
+    filtered = sorted(filtered, key=lambda x: (x["featured"], x["year"]), reverse=True)
 
-    filtered = projects.copy()
+if not filtered:
+    st.info(T["no_projects"])
+else:
+    for project in filtered:
+        render_project_card(project, language, T)
 
-    if type_filter != T["project_type_all"]:
-        reverse_type_map = {
-            T["project_type_analytics"]: "analytics",
-            T["project_type_ai_product"]: "ai_product",
-            T["project_type_product"]: "product",
-        }
-        filtered = [p for p in filtered if p["type_key"] == reverse_type_map[type_filter]]
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
 
-    if tag_filter != T["project_type_all"]:
-        filtered = [p for p in filtered if tag_filter in p["tags"]]
+st.markdown("<div id='fun' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(f"<div class='section-label'>{T['fun_facts_label']}</div>", unsafe_allow_html=True)
+st.markdown(f"## {T['fun_facts_title']}")
 
-    if sort_by == T["latest"]:
-        filtered = sorted(filtered, key=lambda x: x["year"], reverse=True)
-    else:
-        filtered = sorted(filtered, key=lambda x: (x["featured"], x["year"]), reverse=True)
+facts = fun_facts_en if language == "English" else fun_facts_zh
+col1, col2 = st.columns(2, gap="large")
+left_items = facts[:5]
+right_items = facts[5:]
 
-    if not filtered:
-        st.info(T["no_projects"])
-    else:
-        for project in filtered:
-            render_project_card(project, language, T)
+with col1:
+    left_facts_html = "".join([f"<li>{item}</li>" for item in left_items])
+    st.markdown(
+        f"""
+        <div class='soft-card'>
+            <ul class='card-list'>{left_facts_html}</ul>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-elif current_page == "fun":
-    st.markdown(f"<div class='section-label'>{T['fun_facts_label']}</div>", unsafe_allow_html=True)
-    st.markdown(f"## {T['fun_facts_title']}")
+with col2:
+    right_facts_html = "".join([f"<li>{item}</li>" for item in right_items])
+    st.markdown(
+        f"""
+        <div class='soft-card'>
+            <ul class='card-list'>{right_facts_html}</ul>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    facts = fun_facts_en if language == "English" else fun_facts_zh
-    col1, col2 = st.columns(2, gap="large")
-    left_items = facts[:5]
-    right_items = facts[5:]
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
 
-    with col1:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        for item in left_items:
-            st.markdown(f"- {item}")
-        st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("<div id='skills' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(f"<div class='section-label'>{T['skills_label']}</div>", unsafe_allow_html=True)
+st.markdown(f"## {T['skills_title']}")
 
-    with col2:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        for item in right_items:
-            st.markdown(f"- {item}")
-        st.markdown("</div>", unsafe_allow_html=True)
+skill_pack = skills_en if language == "English" else skills_zh
+skill_keys = list(skill_pack.keys())
 
-elif current_page == "skills":
-    st.markdown(f"<div class='section-label'>{T['skills_label']}</div>", unsafe_allow_html=True)
-    st.markdown(f"## {T['skills_title']}")
+s1, s2 = st.columns(2, gap="large")
 
-    skill_pack = skills_en if language == "English" else skills_zh
-    skill_keys = list(skill_pack.keys())
+with s1:
+    st.markdown(
+        f"""
+        <div class='soft-card'>
+            <h3>{skill_keys[0]}</h3>
+            <div>{render_tags(skill_pack[skill_keys[0]])}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    s1, s2 = st.columns(2, gap="large")
+with s2:
+    st.markdown(
+        f"""
+        <div class='soft-card'>
+            <h3>{skill_keys[1]}</h3>
+            <div>{render_tags(skill_pack[skill_keys[1]])}</div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
-    with s1:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"### {skill_keys[0]}")
-        st.markdown(render_tags(skill_pack[skill_keys[0]]), unsafe_allow_html=True)
-        st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("<div class='home-section-gap'></div>", unsafe_allow_html=True)
 
-    with s2:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"### {skill_keys[1]}")
-        st.markdown(render_tags(skill_pack[skill_keys[1]]), unsafe_allow_html=True)
-        st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("<div id='contact' class='anchor-section'></div>", unsafe_allow_html=True)
+st.markdown(f"<div class='section-label'>{T['contact_label']}</div>", unsafe_allow_html=True)
+st.markdown(f"## {T['contact_title']}")
 
-elif current_page == "contact":
-    st.markdown(f"<div class='section-label'>{T['contact_label']}</div>", unsafe_allow_html=True)
-    st.markdown(f"## {T['contact_title']}")
-
-    c1, c2 = st.columns(2, gap="large")
-
-    with c1:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"### {T['contact_details']}")
-        st.write(f"**{T['email']}**")
-        st.write("lindsey.lei@rotman.utoronto.ca")
-        st.write(f"**{T['linkedin']}**")
-        st.write("linkedin.com/in/lindsey-ranshuo-lei")
-        st.write(f"**{T['location']}**")
-        st.write("Toronto, ON")
-        st.markdown("</div>", unsafe_allow_html=True)
-
-    with c2:
-        st.markdown("<div class='soft-card'>", unsafe_allow_html=True)
-        st.markdown(f"### {T['notes']}")
-        st.write(T["notes_body_1"])
-        st.write(T["notes_body_2"])
-        st.markdown("</div>", unsafe_allow_html=True)
-
-st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown(
-    f"<div class='small-note'>{T['built_note']}</div>",
-    unsafe_allow_html=True
-)
+contact_html = f"""
+<div class='soft-card'>
+    <h3>{T['contact_details']}</h3>
+    <div class='project-meta-label'>{T['email']}</div>
+    <p>lindsey.lei@rotman.utoronto.ca</p>
+    <div class='project-meta-label'>{T['linkedin']}</div>
+    <p><a href='https://linkedin.com/in/lindsey-ranshuo-lei' target='_blank'>linkedin.com/in/lindsey-ranshuo-lei</a></p>
+    <div class='project-meta-label'>{T['location']}</div>
+    <p>Toronto, ON</p>
+</div>
+"""
+st.markdown(contact_html, unsafe_allow_html=True)
